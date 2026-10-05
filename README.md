@@ -5,3 +5,4 @@ Sequence Explanation Video: https://youtu.be/WrEikVuczF8
 
 Repeats Explanation Video: https://youtu.be/Y_1BKyplTck
  
+Animal Parade Explanation Video: https://youtu.be/2K9c9NGhhI4
