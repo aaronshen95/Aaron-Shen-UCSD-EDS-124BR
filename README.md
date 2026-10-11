@@ -6,3 +6,5 @@ Sequence Explanation Video: https://youtu.be/WrEikVuczF8
 Repeats Explanation Video: https://youtu.be/Y_1BKyplTck
  
 Animal Parade Explanation Video: https://youtu.be/2K9c9NGhhI4
+
+Nested Repeats Explanation Video: https://youtu.be/zfyigcT1KLE
