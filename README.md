@@ -8,3 +8,5 @@ Repeats Explanation Video: https://youtu.be/Y_1BKyplTck
 Animal Parade Explanation Video: https://youtu.be/2K9c9NGhhI4
 
 Nested Repeats Explanation Video: https://youtu.be/zfyigcT1KLE
+
+Events Explanation Video: https://youtu.be/9v3tSSe1goE
