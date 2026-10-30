@@ -12,3 +12,5 @@ Nested Repeats Explanation Video: https://youtu.be/zfyigcT1KLE
 Events Explanation Video: https://youtu.be/9v3tSSe1goE
 
 Variables Explanation Video: https://youtu.be/CQpbl8V8xmc
+
+Conditional Loops Explanation Video: https://youtu.be/L8EXoWC3NWc
