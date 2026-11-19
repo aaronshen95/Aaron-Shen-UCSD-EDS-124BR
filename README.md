@@ -19,4 +19,4 @@ If Else Explanation Video: https://youtu.be/vMyxdm-K8rA
 
 Nested If Else Explanation Video: https://youtu.be/E6hGG0ChCog
 
-Compoun Conditionals Explanation Video: https://youtu.be/VrjAaziyWNo
+Compound Conditionals Explanation Video: https://youtu.be/VrjAaziyWNo
