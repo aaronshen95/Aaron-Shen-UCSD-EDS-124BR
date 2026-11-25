@@ -20,3 +20,5 @@ If Else Explanation Video: https://youtu.be/vMyxdm-K8rA
 Nested If Else Explanation Video: https://youtu.be/E6hGG0ChCog
 
 Compound Conditionals Explanation Video: https://youtu.be/VrjAaziyWNo
+
+Abstractions Explanatioin Video: https://youtu.be/v4nzQt8kdKE
